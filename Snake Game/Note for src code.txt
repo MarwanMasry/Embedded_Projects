@@ -1,0 +1,5 @@
+- To find all the code written for this project: .\RTOS Project Deliverables\RTOS_Project_Src\RTOS_Project\Snake_Game
+
+- To find the main.c file:.\RTOS Project Deliverables\RTOS_Project_Src\RTOS_Project\Core\Src
+
+- All other files is FreeRtos code and generated drivers for Stm board
