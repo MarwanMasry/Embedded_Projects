@@ -1,0 +1,43 @@
+{D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/MIPS_CPU.v} {1 {vlog -work work -stats=none {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/MIPS_CPU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_CPU
+
+Top level modules:
+	MIPS_CPU
+
+} {} {}} {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DRAM.v} {1 {vlog -work work -stats=none {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DRAM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DRAM
+
+Top level modules:
+	DRAM
+
+} {} {}} {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA.v} {1 {vlog -work work -stats=none {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DMA
+
+Top level modules:
+	DMA
+
+} {} {}} {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA_Project_TestBench.v} {1 {vlog -work work -stats=none {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA_Project_TestBench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DMA_Project_TestBench
+
+Top level modules:
+	DMA_Project_TestBench
+
+} {} {}} {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/IO_device.v} {1 {vlog -work work -stats=none {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/IO_device.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IO_device
+
+Top level modules:
+	IO_device
+
+} {} {}} {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/CLK_Gen.v} {1 {vlog -work work -stats=none {D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/CLK_Gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CLK_Gen
+
+Top level modules:
+	CLK_Gen
+
+} {} {}}

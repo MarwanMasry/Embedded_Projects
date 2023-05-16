@@ -1,0 +1,136 @@
+# Compile of CLK_Gen.v was successful.
+# Compile of DMA.v was successful.
+# Compile of DRAM.v was successful.
+# Compile of IO_device.v was successful.
+# Compile of MIPS_CPU.v was successful.
+# Compile of DMA_Project_TestBench.v was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of CLK_Gen.v was successful.
+# Compile of DMA.v was successful.
+# Compile of DRAM.v was successful.
+# Compile of IO_device.v was successful.
+# Compile of MIPS_CPU.v was successful.
+# Compile of DMA_Project_TestBench.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim work.DMA_Project_TestBench
+# vsim work.DMA_Project_TestBench 
+# Start time: 20:06:56 on Jan 11,2022
+# Loading work.DMA_Project_TestBench
+# Loading work.CLK_Gen
+# Loading work.MIPS_CPU
+# Loading work.DMA
+# Loading work.IO_device
+# Loading work.DRAM
+run
+# 
+# 
+#  Moving 50 Words(4B) from IO(starting from address 10) to DRAM(starting from address 0) using DMA:
+# 
+# Address_IO:   x , Address_DRAM:   x ,Data Transfered:         z        ,MEMR:0 ,MEMW:0 ,IOR:0 ,IOW:0        ,Time:                   0
+# Address_IO:  10 , Address_DRAM:   0 ,Data Transfered:        10        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                  35
+# Address_IO:  11 , Address_DRAM:   1 ,Data Transfered:        11        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                  45
+# Address_IO:  12 , Address_DRAM:   2 ,Data Transfered:        12        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                  55
+# Address_IO:  13 , Address_DRAM:   3 ,Data Transfered:        13        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                  65
+# Address_IO:  14 , Address_DRAM:   4 ,Data Transfered:        14        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                  75
+# Address_IO:  15 , Address_DRAM:   5 ,Data Transfered:        15        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                  85
+# Address_IO:  16 , Address_DRAM:   6 ,Data Transfered:        16        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                  95
+run
+# Address_IO:  17 , Address_DRAM:   7 ,Data Transfered:        17        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 105
+# Address_IO:  18 , Address_DRAM:   8 ,Data Transfered:        18        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 115
+# Address_IO:  19 , Address_DRAM:   9 ,Data Transfered:        19        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 125
+# Address_IO:  20 , Address_DRAM:  10 ,Data Transfered:        20        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 135
+# Address_IO:  21 , Address_DRAM:  11 ,Data Transfered:        21        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 145
+# Address_IO:  22 , Address_DRAM:  12 ,Data Transfered:        22        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 155
+# Address_IO:  23 , Address_DRAM:  13 ,Data Transfered:        23        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 165
+# Address_IO:  24 , Address_DRAM:  14 ,Data Transfered:        24        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 175
+# Address_IO:  25 , Address_DRAM:  15 ,Data Transfered:        25        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 185
+# Address_IO:  26 , Address_DRAM:  16 ,Data Transfered:        26        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 195
+run
+# Address_IO:  27 , Address_DRAM:  17 ,Data Transfered:        27        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 205
+# Address_IO:  28 , Address_DRAM:  18 ,Data Transfered:        28        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 215
+# Address_IO:  29 , Address_DRAM:  19 ,Data Transfered:        29        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 225
+# Address_IO:  30 , Address_DRAM:  20 ,Data Transfered:        30        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 235
+# Address_IO:  31 , Address_DRAM:  21 ,Data Transfered:        31        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 245
+# Address_IO:  32 , Address_DRAM:  22 ,Data Transfered:        32        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 255
+# Address_IO:  33 , Address_DRAM:  23 ,Data Transfered:        33        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 265
+# Address_IO:  34 , Address_DRAM:  24 ,Data Transfered:        34        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 275
+# Address_IO:  35 , Address_DRAM:  25 ,Data Transfered:        35        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 285
+# Address_IO:  36 , Address_DRAM:  26 ,Data Transfered:        36        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 295
+run
+# Address_IO:  37 , Address_DRAM:  27 ,Data Transfered:        37        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 305
+# Address_IO:  38 , Address_DRAM:  28 ,Data Transfered:        38        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 315
+# Address_IO:  39 , Address_DRAM:  29 ,Data Transfered:        39        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 325
+# Address_IO:  40 , Address_DRAM:  30 ,Data Transfered:        40        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 335
+# Address_IO:  41 , Address_DRAM:  31 ,Data Transfered:        41        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 345
+# Address_IO:  42 , Address_DRAM:  32 ,Data Transfered:        42        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 355
+# Address_IO:  43 , Address_DRAM:  33 ,Data Transfered:        43        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 365
+# Address_IO:  44 , Address_DRAM:  34 ,Data Transfered:        44        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 375
+# Address_IO:  45 , Address_DRAM:  35 ,Data Transfered:        45        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 385
+# Address_IO:  46 , Address_DRAM:  36 ,Data Transfered:        46        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 395
+run
+# Address_IO:  47 , Address_DRAM:  37 ,Data Transfered:        47        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 405
+# Address_IO:  48 , Address_DRAM:  38 ,Data Transfered:        48        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 415
+# Address_IO:  49 , Address_DRAM:  39 ,Data Transfered:        49        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 425
+# Address_IO:  50 , Address_DRAM:  40 ,Data Transfered:        50        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 435
+# Address_IO:  51 , Address_DRAM:  41 ,Data Transfered:        51        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 445
+# Address_IO:  52 , Address_DRAM:  42 ,Data Transfered:        52        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 455
+# Address_IO:  53 , Address_DRAM:  43 ,Data Transfered:        53        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 465
+# Address_IO:  54 , Address_DRAM:  44 ,Data Transfered:        54        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 475
+# Address_IO:  55 , Address_DRAM:  45 ,Data Transfered:        55        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 485
+# Address_IO:  56 , Address_DRAM:  46 ,Data Transfered:        56        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 495
+run
+# Address_IO:  57 , Address_DRAM:  47 ,Data Transfered:        57        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 505
+# Address_IO:  58 , Address_DRAM:  48 ,Data Transfered:        58        ,MEMR:0 ,MEMW:1 ,IOR:1 ,IOW:0        ,Time:                 515
+# Address_IO:  59 , Address_DRAM:  49 ,Data Transfered:         z        ,MEMR:0 ,MEMW:0 ,IOR:0 ,IOW:0        ,Time:                 525
+# 
+# 
+# Moving 40 Words(4B) from DRAM(starting from address 70) to IO(starting from address 90) using DMA:
+# 
+# Address_IO:  90 , Address_DRAM:  70 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 565
+# Address_IO:  91 , Address_DRAM:  71 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 585
+# Address_IO:  92 , Address_DRAM:  72 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 595
+run
+# Address_IO:  93 , Address_DRAM:  73 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 605
+# Address_IO:  94 , Address_DRAM:  74 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 615
+# Address_IO:  95 , Address_DRAM:  75 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 625
+# Address_IO:  96 , Address_DRAM:  76 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 635
+# Address_IO:  97 , Address_DRAM:  77 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 645
+# Address_IO:  98 , Address_DRAM:  78 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 655
+# Address_IO:  99 , Address_DRAM:  79 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 665
+# Address_IO: 100 , Address_DRAM:  80 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 675
+# Address_IO: 101 , Address_DRAM:  81 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 685
+# Address_IO: 102 , Address_DRAM:  82 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 695
+run
+# Address_IO: 103 , Address_DRAM:  83 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 705
+# Address_IO: 104 , Address_DRAM:  84 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 715
+# Address_IO: 105 , Address_DRAM:  85 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 725
+# Address_IO: 106 , Address_DRAM:  86 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 735
+# Address_IO: 107 , Address_DRAM:  87 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 745
+# Address_IO: 108 , Address_DRAM:  88 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 755
+# Address_IO: 109 , Address_DRAM:  89 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 765
+# Address_IO: 110 , Address_DRAM:  90 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 775
+# Address_IO: 111 , Address_DRAM:  91 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 785
+# Address_IO: 112 , Address_DRAM:  92 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 795
+run
+# Address_IO: 113 , Address_DRAM:  93 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 805
+# Address_IO: 114 , Address_DRAM:  94 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 815
+# Address_IO: 115 , Address_DRAM:  95 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 825
+# Address_IO: 116 , Address_DRAM:  96 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 835
+# Address_IO: 117 , Address_DRAM:  97 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 845
+# Address_IO: 118 , Address_DRAM:  98 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 855
+# Address_IO: 119 , Address_DRAM:  99 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 865
+# Address_IO: 120 , Address_DRAM: 100 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 875
+# Address_IO: 121 , Address_DRAM: 101 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 885
+# Address_IO: 122 , Address_DRAM: 102 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 895
+run
+# Address_IO: 123 , Address_DRAM: 103 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 905
+# Address_IO: 124 , Address_DRAM: 104 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 915
+# Address_IO: 125 , Address_DRAM: 105 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 925
+# Address_IO: 126 , Address_DRAM: 106 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 935
+# Address_IO: 127 , Address_DRAM: 107 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 945
+# Address_IO: 128 , Address_DRAM: 108 ,Data Transfered:         0        ,MEMR:1 ,MEMW:0 ,IOR:0 ,IOW:1        ,Time:                 955
+# Address_IO: 129 , Address_DRAM: 109 ,Data Transfered:         z        ,MEMR:0 ,MEMW:0 ,IOR:0 ,IOW:0        ,Time:                 965
+run
+run
+# End time: 20:07:46 on Jan 11,2022, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 11

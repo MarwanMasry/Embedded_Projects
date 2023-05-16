@@ -1,0 +1,155 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Assignment2
+vCLK_Gen
+Z0 !s110 1641924410
+!i10b 1
+!s100 h49SDmc5QFHb=`h0]^hSf2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGM[UAIPIF5nb7>4D@0KP03
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584
+w1641924355
+8D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/CLK_Gen.v
+FD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/CLK_Gen.v
+!i122 5
+L0 1 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1641924410.000000
+!s107 D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/CLK_Gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/CLK_Gen.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@c@l@k_@gen
+vDMA
+R0
+!i10b 1
+!s100 ijj8f91h[^ZonJ=EOH]Bd0
+R1
+Ih@OYl7h_g=KH]e4ECb^Lb0
+R2
+R3
+w1641924311
+8D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA.v
+FD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA.v
+!i122 6
+L0 1 110
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA.v|
+!i113 1
+R6
+R7
+n@d@m@a
+vDMA_Project_TestBench
+R0
+!i10b 1
+!s100 <ZNg?GV4SPPBYEKZeKZ:e0
+R1
+I>G=liU[dlSgg[B`TH93YT2
+R2
+R3
+w1641924404
+8D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA_Project_TestBench.v
+FD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA_Project_TestBench.v
+!i122 10
+L0 1 96
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA_Project_TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DMA_Project_TestBench.v|
+!i113 1
+R6
+R7
+n@d@m@a_@project_@test@bench
+vDRAM
+R0
+!i10b 1
+!s100 _fjYi_2M5dZnEGoJ>alYi0
+R1
+InF;abKDH[M8<3^B9Ob7JT3
+R2
+R3
+w1641924316
+8D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DRAM.v
+FD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DRAM.v
+!i122 7
+L0 1 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DRAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/DRAM.v|
+!i113 1
+R6
+R7
+n@d@r@a@m
+vIO_device
+R0
+!i10b 1
+!s100 o0bzXSMA?J@HmV;@RXmEJ0
+R1
+In28^>=KFdONhR?nMXi7`Y0
+R2
+R3
+w1641924324
+8D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/IO_device.v
+FD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/IO_device.v
+!i122 8
+L0 1 58
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/IO_device.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/IO_device.v|
+!i113 1
+R6
+R7
+n@i@o_device
+vMIPS_CPU
+R0
+!i10b 1
+!s100 im>j?[@iB5k5L6LYdV]Hf2
+R1
+I4o@cUX@5eIMbiCRNa36kB1
+R2
+R3
+w1641924337
+8D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/MIPS_CPU.v
+FD:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/MIPS_CPU.v
+!i122 9
+L0 1 109
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/MIPS_CPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Marwan/Career/Materials/ASU/Computer Architecture/Codes/Marwan_Abdelhakim_Elmasry_1807584/MIPS_CPU.v|
+!i113 1
+R6
+R7
+n@m@i@p@s_@c@p@u
